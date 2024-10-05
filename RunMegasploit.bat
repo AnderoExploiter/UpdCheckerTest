@@ -1,0 +1,2 @@
+python Megasploit.py
+pause
